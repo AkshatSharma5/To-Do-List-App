@@ -83,7 +83,7 @@ ul li.checked{
     transition: color 0.7s ease;
 }
 ul li.checked::before{
-    background-image: url(/chk.png);
+    background-image: url(./chk.png);
 }
 
 ul li span{
